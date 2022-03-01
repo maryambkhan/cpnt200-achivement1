@@ -14,9 +14,11 @@
       - Nav Bar
       - Card layout
       - Content section
-  - I explained everything i need to have in this page
+  - I wrote few words what do i need from this page
+  - I give a viual version of it too and explaind it again 
+  
   - It was weird experience lot going in head
-  - 
+  
 
   ### Attributions
 
